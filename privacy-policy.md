@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to **Netgety**! Developed by PSH-TEAM, Netgety is designed to track your internet speed and data usage with ease. Enjoy a sleek interface, customizable notifications, and multi-language support, functioning similarly to "Internet Speed Meter Lite" available on the Google Play Store.
+Welcome to **Netgety**! Developed by PSH-TEAM, Netgety is designed to track your internet speed and data usage with ease. Enjoy a sleek interface, customizable notifications, and multi-language support.
 
 This Privacy Policy outlines our commitment to protecting your privacy. By using Netgety, you agree to the collection and use of information in accordance with this policy.
 

@@ -1,0 +1,1 @@
+# netgety-privacy-policy
